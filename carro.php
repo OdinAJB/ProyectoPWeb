@@ -6,7 +6,7 @@
         height =250px;
     }
 </style>
-<img src="img/Carrito.png" alt="mamo">
+
 
 
 <?php include("template/pie.php");?>
